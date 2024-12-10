@@ -6,6 +6,14 @@ __pycache__/
 # C extensions
 *.so
 
+#custom files
+amharic_dataset/
+amharic_text.txt
+
+
+#json files
+amharic_tokenizer.json
+
 # Distribution / packaging
 .Python
 build/
